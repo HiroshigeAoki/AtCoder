@@ -1,9 +1,10 @@
-
 #!/bin/bash
 
 problem_name=$1
 test_dir=test/${problem_name}
 base_url=${problem_name%_*}
+
+. ./venv/bin/activate
 
 # make test directory
 if [ ! -e ${test_dir} ]; then
