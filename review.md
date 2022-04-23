@@ -11,5 +11,7 @@
 - [ ] https://atcoder.jp/contests/typical90/tasks/typical90_bi
     - x 4/23
 
+ここから↓
+- [ ] https://github.com/E869120/kyopro_educational_90/blob/main/sol/067.cpp
 
 
